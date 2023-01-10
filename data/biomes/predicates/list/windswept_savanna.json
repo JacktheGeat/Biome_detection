@@ -1,6 +1,6 @@
 {
     "condition": "minecraft:location_check",
     "predicate": {
-        "biome": "minecraft:warm_ocean"
+      "biome": "minecraft:windswept_savanna"
     }
-}
+  }

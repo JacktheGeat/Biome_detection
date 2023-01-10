@@ -4,55 +4,43 @@
       {
         "condition": "minecraft:location_check",
         "predicate": {
-          "biome": "minecraft:cold_ocean"
+          "biome": "minecraft:windswept_hills"
         }
       },
       {
         "condition": "minecraft:location_check",
         "predicate": {
-          "biome": "minecraft:deep_cold_ocean"
+          "biome": "minecraft:windswept_gravelly_hills"
         }
       },
       {
         "condition": "minecraft:location_check",
         "predicate": {
-          "biome": "minecraft:frozen_ocean"
+          "biome": "minecraft:windswept_forest"
         }
       },
       {
         "condition": "minecraft:location_check",
         "predicate": {
-          "biome": "minecraft:deep_frozen_ocean"
+          "biome": "minecraft:taiga"
         }
       },
       {
         "condition": "minecraft:location_check",
         "predicate": {
-          "biome": "minecraft:lukewarm_ocean"
+          "biome": "minecraft:old_growth_pine_taiga"
         }
       },
       {
         "condition": "minecraft:location_check",
         "predicate": {
-          "biome": "minecraft:deep_lukewarm_ocean"
+          "biome": "minecraft:old_growth_spruce_taiga"
         }
       },
       {
         "condition": "minecraft:location_check",
         "predicate": {
-          "biome": "minecraft:warm_ocean"
-        }
-      },
-      {
-        "condition": "minecraft:location_check",
-        "predicate": {
-          "biome": "minecraft:ocean"
-        }
-      },
-      {
-        "condition": "minecraft:location_check",
-        "predicate": {
-          "biome": "minecraft:deep_ocean"
+          "biome": "minecraft:stony_shore"
         }
       }
     ]
